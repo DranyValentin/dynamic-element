@@ -1,0 +1,25 @@
+{
+  "name": "dynamic-element",
+  "version": "0.0.1",
+  "description": "The package allows create the element",
+  "private": false,
+  "main": "element.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DranyValentin/dynamic-element.git"
+  },
+  "title": "Element",
+  "keywords": [
+    "element",
+    "create element",
+    "node",
+    "create node"
+  ],
+  "license": "MSI",
+  "bugs": {
+    "url": "https://github.com/DranyValentin/dynamic-element/issues"
+  },
+  "homepage": "https://github.com/DranyValentin/dynamic-element#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
