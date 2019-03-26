@@ -1,4 +1,11 @@
 export const element = {
+    /*
+    * Create new element
+    * 
+    * @param object options
+    *
+    * @return HTMLCollection Element
+    */
     create: (options) => {
         if ( typeof options != 'object' || !options ) 
             options = {tagName: 'span'}
